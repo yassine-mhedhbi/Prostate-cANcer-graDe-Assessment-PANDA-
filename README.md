@@ -14,7 +14,7 @@ Radboud University Medical Center and Karolinska Institute are the data provider
 
 `isup_grade`: The target variable, the severity of the cancer on a 0-5 scale, converted from `gleason_score`. 
 
-Data has been processed by [Iafoss](https://www.kaggle.com/iafoss), [data](https://www.kaggle.com/iafoss/panda-16x128x128-tiles-data)
+[Data](https://www.kaggle.com/iafoss/panda-16x128x128-tiles-data) has been processed by [Iafoss](https://www.kaggle.com/iafoss)
 
 ### Disclaimer:
 This is a for a kaggle competition and should not be used for medical diagnosis.
@@ -22,4 +22,4 @@ This is a for a kaggle competition and should not be used for medical diagnosis.
 for more [info](https://www.kaggle.com/c/prostate-cancer-grade-assessment/overview/description)
 
 # Credits:
-Thanks [Iafoss](https://www.kaggle.com/iafoss)] for [preprocessing](https://www.kaggle.com/iafoss/panda-16x128x128-tiles) the data and provide the dataset.
+Thanks [Iafoss](https://www.kaggle.com/iafoss) for [preprocessing](https://www.kaggle.com/iafoss/panda-16x128x128-tiles) the data and provide the dataset.
